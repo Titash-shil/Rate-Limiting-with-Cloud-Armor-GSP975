@@ -11,11 +11,11 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Use-Machine-Learning-APIs-on-Google-Cloud-Challenge-Lab-GSP329-2025/refs/heads/main/qwiklab_explorers_gsp329.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Rate-Limiting-with-Cloud-Armor-GSP975/refs/heads/main/qwiklab_explorers_gsp975.sh
 
-sudo chmod +x qwiklab_explorers_gsp329.sh
+sudo chmod +x qwiklab_explorers_gsp975.sh
 
-./qwiklab_explorers_gsp329.sh
+./qwiklab_explorers_gsp975.sh
 ```
 
 ---
